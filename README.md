@@ -7,7 +7,7 @@ Casa Jasmina was founded by Jasmina Tesanovic and Bruce Sterling together with t
 You can support the project by getting involved!
 
 
-# What is this respository
+# What is this repository
 
 There are many ways to contribute to Casa Jasmina, whether you are staying there as a guest, are a resident maker and thinker of Torino, or a compelled individual from anywhere on the globe. 
 
@@ -23,13 +23,13 @@ Github is one of the essential tools of online collaboration today. Many open so
 
 Also, because Github has a lively and technically savvy community, there are lots of nifty tools available to expand the platform even further. 
 
-# Why scrum
+# Why Scrum
 
 Scrum is a common practice to manage projects, especially in software development and now increasingly in many other fields.
 
 The basic principle is to have simple yet powerful way to track what tasks need to be done, which ones are in progress, and what's been completed. 
 
-While there are many variations and tweaks on how to scrum effectively, this repository just sets up some of the basics to get the process rolling and see if it's helpful to Casa Jasmina. 
+While there are many variations and tweaks on how to Scrum effectively, this repository just sets up some of the basics to get the process rolling and see if it's helpful to Casa Jasmina. 
 
 
 # How to use this repository
